@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>M5:Homework</title>
+		<meta charset="utf-8">
+		<meta name="author" content="Brian Jones">
+		<link href="school.css" rel="stylesheet">
+	</head>
+
+	<body>
+
+			<table>
+				<tr><!--Row 1-->
+					<th class="red"><br></th>
+					<th>Monday</th>
+					<th class="red"><br></th>
+					<th>Tuesday</th>
+					<th>Wednesday</th>
+					<th>Thursday</th>
+					<th colspan="2">Friday</th>
+				</tr>
+
+				<tr><!--Row 2-->
+					<th rowspan="1" class="red" style="color: white">Summary</th>
+					<td style="text-align: center">8:05-3:05<br>
+						Periods 1-7<br>
+						Synchronous<br>
+						Learning<br>
+						All Classes<br>
+						Additional Learning<br>
+						Time<br>
+					</td>
+					<td class="red"><br></td>
+					<td style="text-align: center">8:05-3:05<br>
+						Periods 1, 2, 3, & 4<br>
+						Synchronous<br>
+						Learning<br>
+						All Classes<br>
+						Additional Learning<br>
+						Time<br>
+					</td>
+					<td style="text-align: center">8:05-3:05<br>
+						Periods 1, 7, 6, & 4<br>
+						Synchronous<br>
+						Learning<br>
+						All Classes<br>
+						Additional Learning<br>
+						Time<br>
+					</td>
+					<td style="text-align: center">8:05-3:05<br>
+						Periods 1, 2, 3, & 7<br>
+						Synchronous<br>
+						Learning<br>
+						All Classes<br>
+						Additional Learning<br>
+						Time<br>
+					</td>
+					<td colspan="2" style="text-align: center">8:05-3:05<br>
+						Student Work Day<br>
+						and<br>
+						Student Services Day<br>
+					</td>
+				</tr>
+
+				<tr><!--Row 3-->
+					<th rowspan="1" class="red" style="color: white">7:30-8:00</th>
+					<td colspan="5" style="text-align: center; color: white" class="red">
+						Staff Professional Responsibilities<br>
+						(Dept Meetings, PLC Meeting, All Staff Meetings, Curriculum Writing, Professional Learning)
+					</td>
+					<td colspan="2" style="text-align: center; color: white" class="red">Staff Professional Responsibilities</td>
+				</tr>
+
+				<tr><!--Row 4-->
+					<th rowspan="1" class="red" style="color: white">8:05-8:45</th>
+					<td style="text-align: center">Period 1</td>
+					<td style="text-align: center; color: white" class="red">8:05-8:45</td>
+					<td style="text-align: center">Period 1</td>
+					<td style="text-align: center">Period 1</td>
+					<td style="text-align: center">Period 1</td>
+					<td rowspan="9" style="text-align: center">
+						Student<br>
+						Asynchronous/Synchronous<br>
+						Time<br>
+						Student Work Day<br>
+						<br>
+						<br>
+						<b><p style="color: blue"> Additional Time for...</p></b><br>
+						<br>
+						<br>
+						Teacher Check-In<br>
+						Individual Tutoring<br>
+						Test Prep College and Career<br>
+						Counselor Appointments<br>
+						Social Work Appointments<br>
+						Related Services<br>
+						Appointments<br>
+						IEP Meetings<br>
+						504 Meetings<br>
+					</td>
+					<td><br></td>
+					</td>
+
+
+
+				</tr>
+
+				<tr><!--Row 5-->
+					<th rowspan="1" class="red" style="color: white">9:00-9:35</th>
+					<td style="text-align: center">Period 1</td>
+					<td style="text-align: center; color: white" class="red">9:00-10:05</td>
+					<td style="text-align: center">Period 2</td>
+					<td style="text-align: center">Period 7</td>
+					<td style="text-align: center">Period 2</td>
+					<td style="text-align: center">
+						Period 1<br>
+						<mark>Office Hours</mark><br>
+						9:00-9:35<br></td>
+
+
+				</tr>
+
+				<tr><!--Row 6-->
+					<th rowspan="1" class="red" style="color: white">9:50-10:25</th>
+					<td style="text-align: center">Period 3</td>
+					<td rowspan="2" style="text-align: center; color: white" class="red">10:20-11:25</td>
+					<td rowspan="2" style="text-align: center">Period 3</td>
+					<td rowspan="2" style="text-align: center">Period 6</td>
+					<td rowspan="2" style="text-align: center">Period 3</td>
+					<td style="text-align: center">
+						Period 2<br>
+						<mark>Office Hours</mark><br>
+						9:45-10:20<br>
+					</td>
+
+				</tr>
+
+				<tr><!--Row 7-->
+					<th rowspan="1" class="red" style="color: white">10:40-11:15</th>
+					<td style="text-align: center">Period 4</td>
+					<td style="text-align: center">
+						Period 3<br>
+						<mark>Office Hours</mark><br>
+						9:45-10:20<br>
+					</td>
+
+				</tr>
+
+				<tr><!--Row 8-->
+					<th rowspan="1" class="red" style="color: white">11:15-12:00</th>
+					<td style="text-align: center; color: white" class="red">Lunch Time</td>
+					<td style="text-align: center; color: white" class="red">11:25-12:10</td>
+					<td style="text-align: center; color: white" class="red">Lunch Time</td>
+					<td class="red"><br></td>
+					<td class="red"><br></td>
+					<td style="text-align: center">
+						Period 4<br>
+						<mark>Office Hours</mark><br>
+						11:15-11:50<br>
+					</td>
+
+				</tr>
+
+				<tr><!--Row 9-->
+					<th rowspan="1" class="red" style="color: white">12:00-12:35</th>
+					<td style="text-align: center">Period 5</td>
+					<td style="text-align: center; color: white" class="red">12:10-1:15</td>
+					<td style="text-align: center">Period 5</td>
+					<td style="text-align: center">Period 5</td>
+					<td style="text-align: center">Period 6</td>
+					<td style="text-align: center">Lunch 11:50-12:30</td>
+
+				</tr>
+
+				<tr><!--Row 10-->
+					<th rowspan="1" class="red" style="color: white">12:50-1:25</th>
+					<td style="text-align: center">Period 6</td>
+					<td style="text-align: center; color: white" class="red">1:30-2:35</td>
+					<td rowspan="2" style="text-align: center">Period 4</td>
+					<td rowspan="2" style="text-align: center">Period 4</td>
+					<td rowspan="2" style="text-align: center">Period 7</td>
+					<td style="text-align: center">
+						Period 5<br>
+						<mark>Office Hours</mark><br>
+						12:30-1:05<br>
+					</td>
+
+				</tr>
+
+				<tr><!--Row 11-->
+					<th rowspan="1" class="red" style="color: white">1:40-2:15</th>
+					<td style="text-align: center">Period 7</td>
+					<td class="red"><br></td>
+					<td style="text-align: center">
+						Period 6<br>
+						<mark>Office Hours</mark><br>
+						1:15-1:50<br>
+					</td>
+
+				</tr>
+
+				<tr><!--Row 12-->
+					<th rowspan="1" class="red" style="color: white">2:15-3:05</th>
+					<td style="text-align: center; color: white" class="red">Learning Time</td>
+					<td style="text-align: center; color: white" class="red">2:35-3:05</td>
+					<td style="text-align: center; color: white" class="red">Learning Time</td>
+					<td class="red"><br></td>
+					<td class="red"><br></td>
+					<td style="text-align: center">
+						Period 7<br>
+						<mark>Office Hours</mark><br>
+						2:00-2:35<br>
+					</td>
+
+				</tr>
+
+				<tr><!--Row 13-->
+					<th rowspan="1" class="red" style="color: white">2:30-4:00</th>
+					<td colspan="7" style="text-align: center">
+						Counselor Small Groups (2:30-3:15) Tutoring Test Center, Special Education Resource Support (On-site or Virtual)
+					</td>
+
+				</tr>
+
+				<tr><!--Row 14-->
+					<th rowspan="1" class="red" style="color: white"><br></th>
+					<td colspan="7" style="text-align: center">
+						Remote Tutoring (To Be Determined)
+					</td>
+
+				</tr>
+				
+			</table>
+
+		<footer>Homewood-Flossmoor High School District 233</footer>
+
+	</body>
+</html>
